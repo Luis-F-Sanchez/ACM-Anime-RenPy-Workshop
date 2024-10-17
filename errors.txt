@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 23: end of line expected.
+    show ani-girl.png
+                 ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Mon Sep 23 13:35:33 2024
