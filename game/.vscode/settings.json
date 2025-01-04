@@ -1,0 +1,10 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.autoComplete.extraPaths": [],
+    "files.exclude": {
+        "**/*.rpyc": true,
+        "**/*.rpa": true,
+        "**/*.rpymc": true,
+        "**/cache/": true
+    }
+}
