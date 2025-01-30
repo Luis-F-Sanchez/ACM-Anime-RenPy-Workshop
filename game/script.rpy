@@ -23,10 +23,11 @@ define cha3 = Character("Kazzy", color="#417d7b")
 # the US constitution
 # plunger
 
-# obj1 = 
+# item1 = 
+# *obj1* = 
 # obj2 = 
 # obj3 = 
-# item1 = 
+
 
 label start:
     
